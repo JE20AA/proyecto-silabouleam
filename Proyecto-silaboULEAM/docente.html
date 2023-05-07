@@ -1,0 +1,65 @@
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Docentes de Gestión Sílabo FACCI</title>
+    <link rel="stylesheet" href="css/docente.css">
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="cabecera">
+        <img class="logo" src="img/logo.png" alt="">
+        <img class="logosilabo" src="img/silabo.png" alt="">
+        <h1>Automatización de sílabos</h1>
+    </div>
+    </div>
+    <div class="container">
+        <p>Por favor, seleccione el docente en el siguiente listado para ver sus datos:</p>
+        <form action="">
+            <select onchange="mostrar(this.value)">
+            <option value="none">Seleccionar Docente</option>
+            <option value="Persona_1">Patricia Quiroz </option>
+            <option value="Persona_2">Robert Moreira</option>
+            <option value="Persona_3">Willian Delgado </option>
+            <option value="Persona_4">Henry Mero</option>
+            <option value="Persona_5">Jonny Peréz</option>
+            <option value="Persona_6">Byron Alcívar</option>
+            <option value="Persona_7">Elizalde Cárdenas</option>
+            <option value="Persona_8">Jimmy Cevallos</option>
+            <option value="Persona_9">María Muñoz</option>
+            <option value="Persona_10">Ramón Molina</option>
+            <option value="Persona_11">Wendy Gómez</option>
+            <option value="Persona_12">Juan Napa</option>
+            <option value="Persona_13">Carlos Almeida</option>
+            <option value="Persona_14">María Cedeño</option>
+            <option value="Persona_15">Vanessa Cedeño</option>
+            <option value="Persona_16">Beatriz Alcívar</option>
+            <option value="Persona_17">Walter Bailón</option>
+            <option value="Persona_18">Paola Castillo</option>
+            <option value="Persona_19">José Barcia</option>
+            <option value="Persona_20">Elisabeth Boyes</option>
+            <option value="Persona_21">Rosa Macías</option>
+            <option value="Persona_22">Veronica Avila</option>
+            <option value="Persona_23">Javier Baque</option>
+            <option value="Persona_24">Carlos Delgado</option>
+            <option value="Persona_25">Lenin Arroyo</option>
+            <option value="Persona_26">Angela Aldaz</option>
+            <option value="Persona_27">Mayra Bravo</option>
+            <option value="Persona_28">Ricardo Bravo</option>
+            <option value="Persona_29">Diana Bravo</option>
+            <option value="Persona_30">Majiory Ibarra</option>
+        </select>
+        </form>
+    </div>
+    <br/>
+    <h2> <span id="txtInformacion"></span></h2>
+    <div id="listaDocentes"> </div>
+</body>
+
+</html>
+<script src="js/javaScript.js"></script>

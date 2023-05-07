@@ -1,0 +1,425 @@
+{
+    "Datos_Docentes": {
+        "Docente_lista": [{
+                "nombre_titulo": "Patricia Quiroz",
+                "datos_lista": [
+                    "Cédula = 1317233111",
+                    "Nombres = Patricia Alexandra ",
+                    "Apellidos = Quiroz Palma ",
+                    "Correo = patricia.quiroz@uleam.edu.ec",
+                    "Facultad = Ciencias de la Vida y Tecnologías",
+                    "Carrera = Tecnología de la Información",
+                    "Asignatura = Aplicaciones Web I",
+                    "Curso = Primero",
+                    "Paralelo = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Robert Moreira",
+                "datos_lista": [
+                    "Cédula = 1323453423",
+                    "Nombres = Robert Wilfrido",
+                    "Apellidos = Moreira Centeno ",
+                    "Correo = robert.moreira@uleam.edu.ec",
+                    "Facultad = Ciencias de la Vida y Tecnologías",
+                    "Carrera = Tecnología de la Información",
+                    "Asignatura = Gestión de Base de Datos",
+                    "Curso = Cuarto",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Willian Delgado",
+                "datos_lista": [
+                    "Cédula = 1234237890",
+                    "Nombres = Willian",
+                    "Apellidos = Delgado Muentes ",
+                    "Correo = willian.delgado@uleam.edu.ec",
+                    "Facultad = Ciencias de la Vida y Tecnologías",
+                    "Carrera = Tecnología de la Información",
+                    "Asignatura = Ingeniería de software I",
+                    "Curso = Quinto ",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Henry Mero",
+                "datos_lista": [
+                    "Cédula = 1323453423",
+                    "Nombres = Henry Neurio",
+                    "Apellidos = Mero Briones ",
+                    "Correo = henry.mero@uleam.edu.ec",
+                    "Facultad = Ciencias de la Vida y Tecnologías",
+                    "Carrera = Tecnología de la Información",
+                    "Asignatura = Modelamiento y Simulación",
+                    "Curso = Sexto",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Jonny Peréz",
+                "datos_lista": [
+                    "Cédula = 1315342367",
+                    "Nombres = Jonny Vicente ",
+                    "Apellidos = Peréz Veliz ",
+                    "Correo = jonny.perezzv@uleam.edu.ec",
+                    "Facultad = Ciencias de la Vida y Tecnologías",
+                    "Carrera = Tecnología de la Información",
+                    "Asignatura = Ingeniería de software II",
+                    "Curso = Sexto",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Byron Alcívar",
+                "datos_lista": [
+                    "Cédula = 1313567845",
+                    "Nombres = Byron Rolando ",
+                    "Apellidos = Alcívar Vaca",
+                    "Correo = byron.alcivar@uleam.edu.ec",
+                    "Facultad = Ciencias de la Vida y Tecnologías",
+                    "Carrera = Agropecuaría",
+                    "Asignatura = Sanidad Vegetal",
+                    "Curso = Tercero",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Elizalde Cárdenas",
+                "datos_lista": [
+                    "Cédula = 1512345656",
+                    "Nombres = Elizalde Exequiel ",
+                    "Apellidos = Cárdenas Reyes ",
+                    "Correo = elizalde.cardenas@uleam.edu.ec",
+                    "Facultad = Ciencias de la Vida y Tecnologías",
+                    "Carrera =  Agropecuaría",
+                    "Asignatura = Topografía",
+                    "Curso = Tercero",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Jimmy Cevallos",
+                "datos_lista": [
+                    "Cédula = 1345237856",
+                    "Nombre = Jimmy Javier",
+                    "Apellidos = Cevallos Zambrano ",
+                    "Correo = jimmy.cevallos@uleam.edu.ec",
+                    "Facultad = Ciencias de la Vida y Tecnologías",
+                    "Carrera=  Agropecuaría",
+                    "Asignatura = Matemática",
+                    "Curso = Primero",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "María Muñoz",
+                "datos_lista": [
+                    "Cédula = 1345237856",
+                    "Nombres = María Belén",
+                    "Apellidos = Muñoz Menéndez",
+                    "Correo = maria.muñoz@uleam.edu.ec",
+                    "Facultad = Ciencias de la Vida y Tecnologías",
+                    "Carrera = Agropecuaría",
+                    "Asignatura =  Quimica Orgánica ",
+                    "Curso = Segundo",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Ramón Molina",
+                "datos_lista": [
+                    "Cédula = 1345009956",
+                    "Nombres =Ramón Antonio ",
+                    "Apellidos = Molina Basurto ",
+                    "Correo = ramon.molina@uleam.edu.ec",
+                    "Facultad = Ciencias de la Vida y Tecnologías",
+                    "Carrera = Agropecuaría",
+                    "Asignatura = Ciencias del Suelo ",
+                    "Curso = Tercero",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Wendy Gómez",
+                "datos_lista": [
+                    "Cédula = 1345009956",
+                    "Nombres = Wendy Magdalena ",
+                    "Apellidos = Gómez Zamora ",
+                    "Correo = wendy.gomez@uleam.edu.ec",
+                    "Facultad = Ciencias de la Vida y Tecnologías",
+                    "Carrera = Biología",
+                    "Asignatura = Bioquímica",
+                    "Curso = Cuarto",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Juan Napa",
+                "datos_lista": [
+                    "Cédula = 1345009956",
+                    "Nombres = Juan Pablo",
+                    "Apellidos = Napa España ",
+                    "Correo = juan.napa@uleam.edu.ec",
+                    "Facultad = Ciencias de la Vida y Tecnologías",
+                    "Carrera = Biología",
+                    "Asignatura = Biología Molecular ",
+                    "Curso = Octavo",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Carlos Almeida",
+                "datos_lista": [
+                    "Cédula = 1345009956",
+                    "Nombres = Carlos Aníbal",
+                    "Apellidos = Almeida Cruz ",
+                    "Correo = carlos.almeida@uleam.edu.ec",
+                    "Facultad = Ciencias de la salud",
+                    "Carrera = Medicina",
+                    "Asignatura = Bioquímica",
+                    "Curso = Segundo",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "María Cedeño",
+                "datos_lista": [
+                    "Cédula = 1345009956",
+                    "Nombres = María Annabell",
+                    "Apellidos = Cedeño Ugalde ",
+                    "Correo = maria.cedeño@uleam.edu.ec",
+                    "Facultad = Ciencias de la salud",
+                    "Carrera = Medicina",
+                    "Asignatura = Farmacología Básica ",
+                    "Curso = Quinto",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Vanessa Cedeño",
+                "datos_lista": [
+                    "Cédula = 1345009956",
+                    "Nombres = Vanessa Monserrate",
+                    "Apellidos = Cedeño Zavalu ",
+                    "Correo = vanessa.cedeño@uleam.edu.ec",
+                    "Facultad = Ciencias de la salud",
+                    "Carrera = Medicina",
+                    "Asignatura = Medicina Legal",
+                    "Curso = Octavo",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Beatriz Alcívar",
+                "datos_lista": [
+                    "Cédula = 1345741239",
+                    "Nombres = Beatriz Isabel ",
+                    "Apellidos = Alcívar Cedeño",
+                    "Correo = beatriz.alcivar@uleam.edu.ec",
+                    "Facultad = Ciencias Administrativas, Contables y Comercio",
+                    "Carrera = Finanzas",
+                    "Asignatura = Contabilidad Financiera ",
+                    "Curso = Cuarto",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Walter Bailón",
+                "datos_lista": [
+                    "Cédula = 1303218453",
+                    "Nombres = Walter Alberto",
+                    "Apellidos = Bailón Lourido",
+                    "Correo = walter.bailon@uleam.edu.ec",
+                    "Facultad = Ciencias Administrativas, Contables y Comercio",
+                    "Carrera = Contabilidad y Auditoria",
+                    "Asignatura = Contabilidad de Costos ",
+                    "Curso = Quinto",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Paola Castillo",
+                "datos_lista": [
+                    "Cédula = 1324759103",
+                    "Nombres = Paola Germania",
+                    "Apellidos = Castillo García",
+                    "Correo = paola.castillo@uleam.edu.ec",
+                    "Facultad = Ciencias Administrativas, Contables y Comercio",
+                    "Carrera = Contabilidad y Auditoria",
+                    "Asignatura = Auditoría Forense ",
+                    "Curso = Octavo",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "José Barcia",
+                "datos_lista": [
+                    "Cédula = 1345009956",
+                    "Nombres = José Javier ",
+                    "Apellidos = Barcia Menéndez ",
+                    "Correo = jose.barcia@uleam.edu.ec",
+                    "Facultad = Educación, Turissmo, Artes y Humanidades",
+                    "Carrera = Educación Inicial",
+                    "Asignatura = Análisis Detallado de Modelos Educativos y el aprendizaje ",
+                    "Curso = Segundo",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Elisabeth Boyes",
+                "datos_lista": [
+                    "Cédula = 1345009956",
+                    "Nombres =Elisabeth Susan ",
+                    "Apellidos = Boyes Fuller",
+                    "Correo = elisabeth.boyes@uleam.edu.ec",
+                    "Facultad = Educación, Turissmo, Artes y Humanidades",
+                    "Carrera = Educación Inicial",
+                    "Asignatura = Literatura Infantil ",
+                    "Curso = Sexto",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Rosa Macías",
+                "datos_lista": [
+                    "Cédula = 1345009956",
+                    "Nombres = Rosa Lucia ",
+                    "Apellidos = Macías Acosta ",
+                    "Correo = rosa.macias@uleam.edu.ec",
+                    "Facultad = Educación, Turissmo, Artes y Humanidades",
+                    "Carrera = Educación Inicial",
+                    "Asignatura = Gestión de Calidad Educativa ",
+                    "Curso = Noveno",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Veronica Avila",
+                "datos_lista": [
+                    "Cédula = 1345009956",
+                    "Nombres = Veronica ",
+                    "Apellidos = Avila Ayón",
+                    "Correo = veronica.avila@uleam.edu.ec",
+                    "Facultad = Ingeniería, Industria y Construcción",
+                    "Carrera = Ingeniería Civil",
+                    "Asignatura = Hidraúlica ",
+                    "Curso = Cuarto",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Javier Baque",
+                "datos_lista": [
+                    "Cédula = 1345009956",
+                    "Nombres = Javier Enrique ",
+                    "Apellidos = Baque Solis ",
+                    "Correo = javier.baque@luleam.edu.ec",
+                    "Facultad = Ingeniería, Industria y Construcción",
+                    "Carrera = Ingeniería Civil",
+                    "Asignatura = Ecuaciones Diferenciales ",
+                    "Curso = Tercero",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Carlos Delgado",
+                "datos_lista": [
+                    "Cédula = 1345009956",
+                    "Nombres = Carlos Geovanny",
+                    "Apellidos = Delgado Castro ",
+                    "Correo = carlos.delgado@uleam.edu.ec",
+                    "Facultad = Ingeniería, Industria y Construcción",
+                    "Carrera = Ingeniería Civil",
+                    "Asignatura = Puertos ",
+                    "Curso = Noveno",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Lenin Arroyo",
+                "datos_lista": [
+                    "Cédula = 1345009956",
+                    "Nombres = Lenin Teobaldo ",
+                    "Apellidos = Arroyo Baltán ",
+                    "Correo = lenin.arroyo@uleam.edu.ec",
+                    "Facultad =  Ciencias Sociales, Derecho y Bienestar",
+                    "Carrera = Derecho",
+                    "Asignatura = Lógica Jurídica",
+                    "Curso = Octavo",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Angela Aldaz",
+                "datos_lista": [
+                    "Cédula = 1345009956",
+                    "Nombres = Angela Romelia",
+                    "Apellidos = Aldaz Quiroz",
+                    "Correo = angela.aldaz@uleam.edu.ec",
+                    "Facultad = Ciencias Sociales, Derecho y Bienestar",
+                    "Carrera = Derecho",
+                    "Asignatura = Derecho Informático",
+                    "Curso = Cuarto",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Mayra Bravo",
+                "datos_lista": [
+                    "Cédula = 1345009956",
+                    "Nombres = Mayra Roxana",
+                    "Apellidos = Bravo Zambrano ",
+                    "Correo = mayra.bravo@uleam.edu.ec",
+                    "Facultad =  Ciencias Sociales, Derecho y Bienestar",
+                    "Carrera = Derecho",
+                    "Asignatura = Derecho Civil: Obligaciones y Contrato ",
+                    "Curso = Sexto",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Ricardo Bravo",
+                "datos_lista": [
+                    "Cédula = 1345009956",
+                    "Nombres = Ricardo Eduardo ",
+                    "Apellidos = Bravo Zambrano ",
+                    "Correo = ricardo.bravo@uleam.edu.ec",
+                    "Facultad = Ciencias de la salud",
+                    "Carrera = Fonoaudiología",
+                    "Asignatura = Neurociencias ",
+                    "Curso = Tercero",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Diana Bravo",
+                "datos_lista": [
+                    "Cédula = 1345009956",
+                    "Nombres = Diana Maribel",
+                    "Apellidos = Bravo Saquicela ",
+                    "Correo = diana.bravo@uleam.edu.ec",
+                    "Facultad = Ciencias de la salud",
+                    "Carrera = Fonoaudiología",
+                    "Asignatura = Eufonía ",
+                    "Curso = Quinto",
+                    "Paralelos = A y B"
+                ]
+            },
+            {
+                "nombre_titulo": "Majiory Ibarra",
+                "datos_lista": [
+                    "Cédula = 1345009956",
+                    "Nombres = Majiory Esmeralda",
+                    "Apellidos = Ibarra García ",
+                    "Correo = majiory.ibarra@uleam.edu.ec",
+                    "Facultad = Ciencias de la salud",
+                    "Carrera = Fonoaudiología",
+                    "Asignatura = Integración Sensorial ",
+                    "Curso = Septimo",
+                    "Paralelos = A"
+                ]
+            }
+        ]
+    }
+}
